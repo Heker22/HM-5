@@ -28,7 +28,7 @@ text-align: center;
     background-color:  rgba(115, 145, 180, 0.572);
 }
 form{
-background-color: skyblue;
+background-color: rgb(10, 167, 146);
 width: 350px;
 padding: 30px 20px;
 border: 3px solid rgb(50, 22, 77);
@@ -48,6 +48,4 @@ border-radius: 8px;
 }
 button:hover{
 background-color: chocolate;
-
-
 }
